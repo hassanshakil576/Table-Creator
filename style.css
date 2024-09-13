@@ -1,0 +1,25 @@
+#table{
+    width: 200px;
+    height: 4vh;
+    margin-left: 700px;
+    text-align: center;
+    margin-top: 70px;
+}
+button{
+    border-radius: 5px;
+    background-color: blue;
+    padding: 5px 5px;
+    border: 2px solid #fff;
+    color: #fff;
+    margin-left: 755px;
+    margin-top: 20px
+}
+#head{
+    text-align: center;
+    font-size: 3rem;
+}
+.div-1{
+    text-align: center;
+}
+    
+
